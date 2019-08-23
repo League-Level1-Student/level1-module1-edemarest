@@ -80,6 +80,11 @@ public class Popcorn {
 			e.printStackTrace();
 		}
 	}
+
+	public void putInMicrowave(Popcorn popcorn) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
 
